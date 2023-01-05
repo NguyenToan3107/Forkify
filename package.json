@@ -1,0 +1,29 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "Recipe Application",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NguyenToan3107/Forkify.git"
+  },
+  "author": "Toan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NguyenToan3107/Forkify/issues"
+  },
+  "homepage": "https://github.com/NguyenToan3107/Forkify#readme",
+  "dependencies": {
+    "core-js": "^3.27.1",
+    "json-server": "^0.17.1",
+    "parcel": "^2.8.2",
+    "regenerator-runtime": "^0.13.11"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.8.2"
+  }
+}
