@@ -1,4 +1,4 @@
-9816
+9819
 76C:\Users\Toan\Documents\GitHub\Forkify\node_modules\yargs\locales\pt_BR.json133173195063756380 0
 68C:\Users\Toan\Documents\GitHub\Forkify\node_modules\lodash\fp\gte.js133173195066648299 0
 81C:\Users\Toan\Documents\GitHub\Forkify\node_modules\semver-compare\example\lex.js133173195063028320 0
@@ -31,7 +31,7 @@
 77C:\Users\Toan\Documents\GitHub\Forkify\node_modules\lodash\fp\differenceBy.js133173195065783200 0
 75C:\Users\Toan\Documents\GitHub\Forkify\node_modules\ordered-binary\index.js133173195709161051 0
 84C:\Users\Toan\Documents\GitHub\Forkify\node_modules\@parcel\transformer-posthtml\src133173195709260779 1
-43C:\Users\Toan\Documents\GitHub\Forkify\dist133173867546644297 1
+43C:\Users\Toan\Documents\GitHub\Forkify\dist133176687096793623 1
 91C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\features\array\virtual\every.js133173865900379832 0
 89C:\Users\Toan\Documents\GitHub\Forkify\node_modules\caniuse-lite\data\features\streams.js133173195719170135 0
 78C:\Users\Toan\Documents\GitHub\Forkify\forkify-architecture-recipe-loading.png132886955210000000 0
@@ -56,7 +56,7 @@
 80C:\Users\Toan\Documents\GitHub\Forkify\node_modules\nanoid\url-alphabet\index.js133173195063387362 0
 60C:\Users\Toan\Documents\GitHub\Forkify\node_modules\chokidar133173196659489035 1
 94C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\stable\dom-collections\iterator.js133173865906255543 0
-49C:\Users\Toan\Documents\GitHub\Forkify\index.html133173849201419572 0
+49C:\Users\Toan\Documents\GitHub\Forkify\index.html133174732317483003 0
 80C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\features\map\some.js133173865912211692 0
 69C:\Users\Toan\Documents\GitHub\Forkify\node_modules\is-glob\README.md133173196653866017 0
 66C:\Users\Toan\Documents\GitHub\Forkify\node_modules\yaml\README.md133173195712152046 0
@@ -134,7 +134,7 @@
 62C:\Users\Toan\Documents\GitHub\Forkify\node_modules\basic-auth133173195062848796 1
 92C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\modules\esnext.map.map-values.js133173865899736148 0
 46C:\Users\Toan\Documents\GitHub\Forkify\src\img133173188672720020 1
-45C:\Users\Toan\Documents\GitHub\Forkify\src\js133173188672769884 1
+45C:\Users\Toan\Documents\GitHub\Forkify\src\js133176645363671790 1
 88C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\modules\es.array.for-each.js133173865897642782 0
 91C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\es\string\virtual\trim-right.js133173865914656995 0
 74C:\Users\Toan\Documents\GitHub\Forkify\node_modules\pluralize\pluralize.js133173195062556589 0
@@ -149,6 +149,9 @@
 71C:\Users\Toan\Documents\GitHub\Forkify\node_modules\lodash\_nodeUtil.js133173195064922353 0
 71C:\Users\Toan\Documents\GitHub\Forkify\node_modules\lodash\_baseUniq.js133173195064231740 0
 65C:\Users\Toan\Documents\GitHub\Forkify\node_modules\yargs\LICENSE133173195062187587 0
+84C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\actual\string\replace.js133173865910989987 0
+65C:\Users\Toan\Documents\GitHub\Forkify\src\js\views\recipeView.js133176687095073726 0
+88C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\es\function\virtual\index.js133173865904327760 0
 80C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\full\iterator\map.js133173865907605392 0
 83C:\Users\Toan\Documents\GitHub\Forkify\node_modules\css-tree\lib\syntax\node\CDC.js133173195710274420 0
 84C:\Users\Toan\Documents\GitHub\Forkify\node_modules\svgo\plugins\removeEmptyAttrs.js133173195711982507 0
@@ -167,8 +170,6 @@
 91C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\proposals\collection-methods.js133173865896331241 0
 76C:\Users\Toan\Documents\GitHub\Forkify\node_modules\lodash\fp\findLastKey.js133173195066428893 0
 60C:\Users\Toan\Documents\GitHub\Forkify\src\sass\_header.scss132886955210000000 0
-65C:\Users\Toan\Documents\GitHub\Forkify\node_modules\color-convert133173195063078190 1
-64C:\Users\Toan\Documents\GitHub\Forkify\node_modules\yaml\browser133173195711902717 1
 96C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\features\reflect\has-own-metadata.js133173865903605735 0
 99C:\Users\Toan\Documents\GitHub\Forkify\node_modules\caniuse-lite\data\features\sharedarraybuffer.js133173195719063324 0
 81C:\Users\Toan\Documents\GitHub\Forkify\node_modules\express-urlrewrite\index.d.ts133173195062908649 0
@@ -205,7 +206,7 @@
 72C:\Users\Toan\Documents\GitHub\Forkify\node_modules\lmdb\dependencies\v8133173195713079579 1
 82C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\proposals\string-at.js133173865912911088 0
 81C:\Users\Toan\Documents\GitHub\Forkify\node_modules\nanoid\url-alphabet\index.cjs133173195063118091 0
-59C:\Users\Toan\Documents\GitHub\Forkify\src\js\controller.js133173867542524995 0
+59C:\Users\Toan\Documents\GitHub\Forkify\src\js\controller.js133176687033009887 0
 80C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\actual\array\find.js133173865901633934 0
 90C:\Users\Toan\Documents\GitHub\Forkify\node_modules\svgo\plugins\convertEllipseToCircle.js133173195710805646 0
 77C:\Users\Toan\Documents\GitHub\Forkify\node_modules\@parcel\watcher\src\macos133173195711015083 1
@@ -213,6 +214,19 @@
 81C:\Users\Toan\Documents\GitHub\Forkify\node_modules\msgpackr-extract\package.json133173195709510110 0
 83C:\Users\Toan\Documents\GitHub\Forkify\node_modules\caniuse-lite\data\regions\ET.js133173195715233800 0
 58C:\Users\Toan\Documents\GitHub\Forkify\node_modules\@babel133173195698615703 1
+68C:\Users\Toan\Documents\GitHub\Forkify\node_modules\inherits\LICENSE133173195062739089 0
+54C:\Users\Toan\Documents\GitHub\Forkify\src\js\model.js133176664586972327 0
+65C:\Users\Toan\Documents\GitHub\Forkify\node_modules\mdn-data\l10n133173195709789365 1
+106C:\Users\Toan\Documents\GitHub\Forkify\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb.c133173195712062282 0
+103C:\Users\Toan\Documents\GitHub\Forkify\node_modules\caniuse-lite\data\features\css-container-queries.js133173195713368786 0
+68C:\Users\Toan\Documents\GitHub\Forkify\node_modules\methods\index.js133173195062749062 0
+72C:\Users\Toan\Documents\GitHub\Forkify\node_modules\lodash\stubString.js133173195068934715 0
+84C:\Users\Toan\Documents\GitHub\Forkify\node_modules\update-browserslist-db\README.md133173195709569955 0
+83C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\full\typed-array\map.js133173865907615365 0
+51C:\Users\Toan\Documents\GitHub\Forkify\src\js\views133176645588000838 1
+84C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\actual\typed-array\of.js133173865909005447 0
+72C:\Users\Toan\Documents\GitHub\Forkify\node_modules\on-headers\README.md133173195062898680 0
+69C:\Users\Toan\Documents\GitHub\Forkify\node_modules\lodash\attempt.js133173195065407204 0
 92C:\Users\Toan\Documents\GitHub\Forkify\node_modules\css-tree\lib\syntax\node\SelectorList.js133173195713039670 0
 83C:\Users\Toan\Documents\GitHub\Forkify\node_modules\terser\lib\compress\evaluate.js133173195711443939 0
 87C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\full\array\virtual\every.js133173865900419719 0
@@ -277,20 +291,6 @@
 83C:\Users\Toan\Documents\GitHub\Forkify\node_modules\svgo\lib\svgo\css-class-list.js133173195711074929 0
 83C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\full\data-view\index.js133173865904876295 0
 59C:\Users\Toan\Documents\GitHub\Forkify\node_modules\@parcel133173196653257617 1
-57C:\Users\Toan\Documents\GitHub\Forkify\node_modules\clone133173195709380480 1
-61C:\Users\Toan\Documents\GitHub\Forkify\node_modules\yaml\dist133173195712002451 1
-81C:\Users\Toan\Documents\GitHub\Forkify\node_modules\utility-types\dist\index.d.ts133173195710725860 0
-87C:\Users\Toan\Documents\GitHub\Forkify\node_modules\svgo\plugins\convertStyleToAttrs.js133173195710965223 0
-83C:\Users\Toan\Documents\GitHub\Forkify\node_modules\cosmiconfig\dist\types.d.ts.map133173195711264420 0
-80C:\Users\Toan\Documents\GitHub\Forkify\node_modules\get-caller-file\package.json133173195062107798 0
-87C:\Users\Toan\Documents\GitHub\Forkify\node_modules\caniuse-lite\data\features\asmjs.js133173195711513752 0
-79C:\Users\Toan\Documents\GitHub\Forkify\node_modules\lightningcss\node\index.mjs133173195709649752 0
-66C:\Users\Toan\Documents\GitHub\Forkify\node_modules\semver\LICENSE133173195707546383 0
-69C:\Users\Toan\Documents\GitHub\Forkify\node_modules\commander\LICENSE133173195707576308 0
-76C:\Users\Toan\Documents\GitHub\Forkify\node_modules\yargs\lib\platform-shims133173195063826195 1
-79C:\Users\Toan\Documents\GitHub\Forkify\node_modules\object-inspect\test\deep.js133173195063157969 0
-86C:\Users\Toan\Documents\GitHub\Forkify\node_modules\@parcel\core\lib\serializerCore.js133173195713298979 0
-71C:\Users\Toan\Documents\GitHub\Forkify\node_modules\wrap-ansi\readme.md133173195062739089 0
 86C:\Users\Toan\Documents\GitHub\Forkify\node_modules\svgo\plugins\removeStyleElement.js133173195712261757 0
 87C:\Users\Toan\Documents\GitHub\Forkify\node_modules\utility-types\dist\utility-types.js133173195709400408 0
 56C:\Users\Toan\Documents\GitHub\Forkify\node_modules\@swc133173195698605720 1
@@ -387,6 +387,22 @@
 102C:\Users\Toan\Documents\GitHub\Forkify\node_modules\posthtml\node_modules\posthtml-parser\package.json133173195709270749 0
 73C:\Users\Toan\Documents\GitHub\Forkify\node_modules\lodash\_baseSample.js133173195064135369 0
 57C:\Users\Toan\Documents\GitHub\Forkify\node_modules\cliui133173195063217813 1
+57C:\Users\Toan\Documents\GitHub\Forkify\node_modules\clone133173195709380480 1
+61C:\Users\Toan\Documents\GitHub\Forkify\node_modules\yaml\dist133173195712002451 1
+81C:\Users\Toan\Documents\GitHub\Forkify\node_modules\utility-types\dist\index.d.ts133173195710725860 0
+87C:\Users\Toan\Documents\GitHub\Forkify\node_modules\svgo\plugins\convertStyleToAttrs.js133173195710965223 0
+83C:\Users\Toan\Documents\GitHub\Forkify\node_modules\cosmiconfig\dist\types.d.ts.map133173195711264420 0
+80C:\Users\Toan\Documents\GitHub\Forkify\node_modules\get-caller-file\package.json133173195062107798 0
+87C:\Users\Toan\Documents\GitHub\Forkify\node_modules\caniuse-lite\data\features\asmjs.js133173195711513752 0
+79C:\Users\Toan\Documents\GitHub\Forkify\node_modules\lightningcss\node\index.mjs133173195709649752 0
+66C:\Users\Toan\Documents\GitHub\Forkify\node_modules\semver\LICENSE133173195707546383 0
+69C:\Users\Toan\Documents\GitHub\Forkify\node_modules\commander\LICENSE133173195707576308 0
+76C:\Users\Toan\Documents\GitHub\Forkify\node_modules\yargs\lib\platform-shims133173195063826195 1
+79C:\Users\Toan\Documents\GitHub\Forkify\node_modules\object-inspect\test\deep.js133173195063157969 0
+86C:\Users\Toan\Documents\GitHub\Forkify\node_modules\@parcel\core\lib\serializerCore.js133173195713298979 0
+71C:\Users\Toan\Documents\GitHub\Forkify\node_modules\wrap-ansi\readme.md133173195062739089 0
+65C:\Users\Toan\Documents\GitHub\Forkify\node_modules\color-convert133173195063078190 1
+64C:\Users\Toan\Documents\GitHub\Forkify\node_modules\yaml\browser133173195711902717 1
 63C:\Users\Toan\Documents\GitHub\Forkify\node_modules\yaml\map.js133173195710416690 0
 88C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\internals\string-trim-end.js133173865912990874 0
 61C:\Users\Toan\Documents\GitHub\Forkify\node_modules\commander133173195709879121 1
@@ -604,11 +620,11 @@
 126C:\Users\Toan\Documents\GitHub\Forkify\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\aliased-file\index.js133173195711433981 0
 70C:\Users\Toan\Documents\GitHub\Forkify\node_modules\json5\lib\parse.js133173195709669687 0
 65C:\Users\Toan\Documents\GitHub\Forkify\node_modules\function-bind133173195063247742 1
-57C:\Users\Toan\Documents\GitHub\Forkify\node_modules\fresh133173195062858783 1
-67C:\Users\Toan\Documents\GitHub\Forkify\node_modules\lowdb\lib\fp.js133173195063437224 0
 81C:\Users\Toan\Documents\GitHub\Forkify\node_modules\css-tree\lib\walker\create.js133173195711254444 0
 93C:\Users\Toan\Documents\GitHub\Forkify\node_modules\.bin\node-gyp-build-optional-packages.ps1133173195721423362 0
 87C:\Users\Toan\Documents\GitHub\Forkify\node_modules\type-fest\source\promise-value.d.ts133173195711264420 0
+57C:\Users\Toan\Documents\GitHub\Forkify\node_modules\fresh133173195062858783 1
+67C:\Users\Toan\Documents\GitHub\Forkify\node_modules\lowdb\lib\fp.js133173195063437224 0
 89C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\actual\symbol\to-primitive.js133173865913908427 0
 69C:\Users\Toan\Documents\GitHub\Forkify\node_modules\csso\lib\usage.js133173195711892737 0
 73C:\Users\Toan\Documents\GitHub\Forkify\node_modules\object-inspect\.nycrc133173195062307267 0
@@ -1625,7 +1641,6 @@
 74C:\Users\Toan\Documents\GitHub\Forkify\node_modules\yaml\dist\parse-cst.js133173195710995159 0
 86C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\features\iterator\every.js133173865900399777 0
 83C:\Users\Toan\Documents\GitHub\Forkify\node_modules\update-browserslist-db\utils.js133173195709200937 0
-84C:\Users\Toan\Documents\GitHub\Forkify\node_modules\type-fest\source\promisable.d.ts133173195711224525 0
 70C:\Users\Toan\Documents\GitHub\Forkify\node_modules\bytes\package.json133173195062536645 0
 84C:\Users\Toan\Documents\GitHub\Forkify\node_modules\yaml\dist\PlainValue-ec8e588e.js133173195711184633 0
 100C:\Users\Toan\Documents\GitHub\Forkify\node_modules\htmlnano\lib\modules\normalizeAttributeValues.js133173195710955263 0
@@ -1839,9 +1854,6 @@
 74C:\Users\Toan\Documents\GitHub\Forkify\node_modules\side-channel\.eslintrc133173195062313947 0
 90C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\actual\typed-array\subarray.js133173865913110560 0
 76C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\full\array\of.js133173865909168837 0
-72C:\Users\Toan\Documents\GitHub\Forkify\node_modules\lodash\stubString.js133173195068934715 0
-84C:\Users\Toan\Documents\GitHub\Forkify\node_modules\update-browserslist-db\README.md133173195709569955 0
-83C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\full\typed-array\map.js133173865907615365 0
 69C:\Users\Toan\Documents\GitHub\Forkify\node_modules\unpipe\HISTORY.md133173195062898680 0
 65C:\Users\Toan\Documents\GitHub\Forkify\node_modules\lodash\now.js133173195068026462 0
 77C:\Users\Toan\Documents\GitHub\Forkify\node_modules\posthtml-render\readme.md133173195709320631 0
@@ -1883,6 +1895,7 @@
 81C:\Users\Toan\Documents\GitHub\Forkify\node_modules\type-fest\source\mutable.d.ts133173195710985170 0
 101C:\Users\Toan\Documents\GitHub\Forkify\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest4.c133173195712511087 0
 80C:\Users\Toan\Documents\GitHub\Forkify\node_modules\type-fest\source\opaque.d.ts133173195711035032 0
+84C:\Users\Toan\Documents\GitHub\Forkify\node_modules\type-fest\source\promisable.d.ts133173195711224525 0
 87C:\Users\Toan\Documents\GitHub\Forkify\node_modules\type-fest\source\readonly-deep.d.ts133173195711304316 0
 93C:\Users\Toan\Documents\GitHub\Forkify\node_modules\type-fest\source\require-exactly-one.d.ts133173195711374132 0
 69C:\Users\Toan\Documents\GitHub\Forkify\node_modules\svgo\lib\style.js133173195712491138 0
@@ -2266,11 +2279,11 @@
 83C:\Users\Toan\Documents\GitHub\Forkify\node_modules\domutils\lib\traversal.d.ts.map133173195710685963 0
 62C:\Users\Toan\Documents\GitHub\Forkify\node_modules\json5\dist133173195710666029 1
 76C:\Users\Toan\Documents\GitHub\Forkify\node_modules\svgo\lib\svgo\jsAPI.d.ts133173195712700574 0
-79C:\Users\Toan\Documents\GitHub\Forkify\node_modules\please-upgrade-node\LICENSE133173195062908649 0
-90C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\features\symbol\replace-all.js133173865910940110 0
 75C:\Users\Toan\Documents\GitHub\Forkify\node_modules\lodash\_nativeKeysIn.js133173195064922353 0
 83C:\Users\Toan\Documents\GitHub\Forkify\node_modules\caniuse-lite\data\regions\GA.js133173195715453215 0
 72C:\Users\Toan\Documents\GitHub\Forkify\node_modules\posthtml-parser\dist133173195709899069 1
+79C:\Users\Toan\Documents\GitHub\Forkify\node_modules\please-upgrade-node\LICENSE133173195062908649 0
+90C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\features\symbol\replace-all.js133173865910940110 0
 74C:\Users\Toan\Documents\GitHub\Forkify\node_modules\svgo\lib\svgo\jsAPI.js133173195711344218 0
 74C:\Users\Toan\Documents\GitHub\Forkify\node_modules\svgo\lib\svgo\tools.js133173195712630767 0
 73C:\Users\Toan\Documents\GitHub\Forkify\node_modules\lodash\fp\valuesIn.js133173195070472743 0
@@ -2284,7 +2297,7 @@
 71C:\Users\Toan\Documents\GitHub\Forkify\node_modules\lodash\takeRight.js133173195069025286 0
 77C:\Users\Toan\Documents\GitHub\Forkify\node_modules\supports-color\browser.js133173195062346090 0
 88C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\modules\es.string.pad-end.js133173865898716094 0
-62C:\Users\Toan\Documents\GitHub\Forkify\dist\icons.21bad73c.svg133173867546644297 0
+62C:\Users\Toan\Documents\GitHub\Forkify\dist\icons.21bad73c.svg133176681669359076 0
 69C:\Users\Toan\Documents\GitHub\Forkify\node_modules\side-channel\test133173195062998398 1
 74C:\Users\Toan\Documents\GitHub\Forkify\node_modules\supports-color\license133173195062177610 0
 67C:\Users\Toan\Documents\GitHub\Forkify\node_modules\is-json\LICENSE133173195708841808 0
@@ -2695,7 +2708,7 @@
 75C:\Users\Toan\Documents\GitHub\Forkify\node_modules\react-refresh\README.md133173195710088567 0
 106C:\Users\Toan\Documents\GitHub\Forkify\node_modules\react-refresh\cjs\react-refresh-runtime.development.js133173195709380480 0
 88C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\internals\create-property.js133173865896809959 0
-65C:\Users\Toan\Documents\GitHub\Forkify\dist\index.e37f48ea.js.map133173867546488070 0
+65C:\Users\Toan\Documents\GitHub\Forkify\dist\index.e37f48ea.js.map133176687096793623 0
 94C:\Users\Toan\Documents\GitHub\Forkify\node_modules\htmlnano\lib\modules\collapseWhitespace.js133173195709689635 0
 74C:\Users\Toan\Documents\GitHub\Forkify\node_modules\mdn-data\l10n\css.json133173195710088567 0
 72C:\Users\Toan\Documents\GitHub\Forkify\node_modules\lodash\fp\omitAll.js133173195068067736 0
@@ -2965,9 +2978,6 @@
 74C:\Users\Toan\Documents\GitHub\Forkify\node_modules\lodash\wrapperChain.js133173195070555031 0
 101C:\Users\Toan\Documents\GitHub\Forkify\node_modules\@swc\helpers\src\_possible_constructor_return.mjs133173195713428629 0
 73C:\Users\Toan\Documents\GitHub\Forkify\node_modules\lodash\isArguments.js133173195066837488 0
-84C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\actual\typed-array\of.js133173865909005447 0
-72C:\Users\Toan\Documents\GitHub\Forkify\node_modules\on-headers\README.md133173195062898680 0
-69C:\Users\Toan\Documents\GitHub\Forkify\node_modules\lodash\attempt.js133173195065407204 0
 74C:\Users\Toan\Documents\GitHub\Forkify\node_modules\on-finished\HISTORY.md133173195062759036 0
 71C:\Users\Toan\Documents\GitHub\Forkify\node_modules\on-finished\LICENSE133173195062187587 0
 97C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\modules\es.number.max-safe-integer.js133173865898088209 0
@@ -3327,7 +3337,6 @@
 80C:\Users\Toan\Documents\GitHub\Forkify\node_modules\method-override\node_modules133173195060622545 1
 72C:\Users\Toan\Documents\GitHub\Forkify\node_modules\mime-types\README.md133173195062928604 0
 100C:\Users\Toan\Documents\GitHub\Forkify\node_modules\@swc\helpers\src\_apply_decorated_descriptor.mjs133173195712810282 0
-81C:\Users\Toan\Documents\GitHub\Forkify\node_modules\@swc\helpers\src\_extends.mjs133173195713249108 0
 68C:\Users\Toan\Documents\GitHub\Forkify\node_modules\mime-db\index.js133173195062336098 0
 69C:\Users\Toan\Documents\GitHub\Forkify\node_modules\mime\CHANGELOG.md133173195063078190 0
 75C:\Users\Toan\Documents\GitHub\Forkify\node_modules\import-fresh\index.d.ts133173195709200937 0
@@ -3337,11 +3346,6 @@
 77C:\Users\Toan\Documents\GitHub\Forkify\node_modules\method-override\README.md133173195062928604 0
 66C:\Users\Toan\Documents\GitHub\Forkify\node_modules\mime\README.md133173195062435856 0
 60C:\Users\Toan\Documents\GitHub\Forkify\node_modules\mime\src133173195063187889 1
-68C:\Users\Toan\Documents\GitHub\Forkify\node_modules\inherits\LICENSE133173195062739089 0
-65C:\Users\Toan\Documents\GitHub\Forkify\node_modules\mdn-data\l10n133173195709789365 1
-106C:\Users\Toan\Documents\GitHub\Forkify\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb.c133173195712062282 0
-103C:\Users\Toan\Documents\GitHub\Forkify\node_modules\caniuse-lite\data\features\css-container-queries.js133173195713368786 0
-68C:\Users\Toan\Documents\GitHub\Forkify\node_modules\methods\index.js133173195062749062 0
 67C:\Users\Toan\Documents\GitHub\Forkify\node_modules\methods\LICENSE133173195062506718 0
 80C:\Users\Toan\Documents\GitHub\Forkify\node_modules\css-select\lib\attributes.js133173195708841808 0
 72C:\Users\Toan\Documents\GitHub\Forkify\node_modules\methods\package.json133173195062167629 0
@@ -3904,10 +3908,10 @@
 97C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\es\object\get-own-property-symbols.js133173865903057196 0
 76C:\Users\Toan\Documents\GitHub\Forkify\node_modules\@swc\helpers\lib\_jsx.js133173195712221857 0
 72C:\Users\Toan\Documents\GitHub\Forkify\node_modules\lodash\_arrayPush.js133173195063327518 0
-74C:\Users\Toan\Documents\GitHub\Forkify\node_modules\lodash\_arrayReduce.js133173195063347474 0
-85C:\Users\Toan\Documents\GitHub\Forkify\node_modules\@swc\helpers\src\_export_star.mjs133173195713239136 0
 79C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\es\object\freeze.js133173865902553692 0
 74C:\Users\Toan\Documents\GitHub\Forkify\node_modules\callsites\package.json133173195707493784 0
+85C:\Users\Toan\Documents\GitHub\Forkify\node_modules\@swc\helpers\src\_export_star.mjs133173195713239136 0
+74C:\Users\Toan\Documents\GitHub\Forkify\node_modules\lodash\_arrayReduce.js133173195063347474 0
 79C:\Users\Toan\Documents\GitHub\Forkify\node_modules\lodash\_arrayReduceRight.js133173195063377382 0
 73C:\Users\Toan\Documents\GitHub\Forkify\node_modules\buffer-from\readme.md133173195708831833 0
 78C:\Users\Toan\Documents\GitHub\Forkify\node_modules\lodash\_arraySampleSize.js133173195063417291 0
@@ -3937,8 +3941,6 @@
 98C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\internals\symbol-registry-detection.js133173865913489540 0
 77C:\Users\Toan\Documents\GitHub\Forkify\node_modules\lodash\_baseConformsTo.js133173195063626717 0
 88C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\actual\array\virtual\some.js133173865912151861 0
-96C:\Users\Toan\Documents\GitHub\Forkify\node_modules\caniuse-lite\data\features\feature-policy.js133173195715253753 0
-70C:\Users\Toan\Documents\GitHub\Forkify\node_modules\lodash\_reorder.js133173195064969393 0
 73C:\Users\Toan\Documents\GitHub\Forkify\node_modules\lodash\_baseCreate.js133173195063646663 0
 83C:\Users\Toan\Documents\GitHub\Forkify\node_modules\lmdb\util\set-optional-deps.cjs133173195712640735 0
 72C:\Users\Toan\Documents\GitHub\Forkify\node_modules\lodash\_baseEvery.js133173195063686563 0
@@ -4149,6 +4151,8 @@
 76C:\Users\Toan\Documents\GitHub\Forkify\node_modules\lodash\_reInterpolate.js133173195064954900 0
 74C:\Users\Toan\Documents\GitHub\Forkify\node_modules\content-type\README.md133173195062356060 0
 86C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\full\typed-array\values.js133173865915606118 0
+96C:\Users\Toan\Documents\GitHub\Forkify\node_modules\caniuse-lite\data\features\feature-policy.js133173195715253753 0
+70C:\Users\Toan\Documents\GitHub\Forkify\node_modules\lodash\_reorder.js133173195064969393 0
 77C:\Users\Toan\Documents\GitHub\Forkify\node_modules\lodash\_replaceHolders.js133173195064973468 0
 67C:\Users\Toan\Documents\GitHub\Forkify\node_modules\lodash\_root.js133173195064973468 0
 80C:\Users\Toan\Documents\GitHub\Forkify\node_modules\@parcel\cache\lib\FSCache.js133173195707861509 0
@@ -4885,7 +4889,6 @@
 109C:\Users\Toan\Documents\GitHub\Forkify\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest6.c133173195712541002 0
 84C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\full\instance\pad-end.js133173865909587270 0
 84C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\full\math\deg-per-rad.js133173865896999448 0
-99C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\stable\array\virtual\find-last-index.js133173865901544168 0
 87C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\features\array\last-item.js133173865907097933 0
 84C:\Users\Toan\Documents\GitHub\Forkify\node_modules\lmdb\dependencies\lmdb\libraries133173195708756075 1
 96C:\Users\Toan\Documents\GitHub\Forkify\node_modules\@parcel\transformer-postcss\src\constants.js133173195708736129 0
@@ -4944,7 +4947,7 @@
 75C:\Users\Toan\Documents\GitHub\Forkify\node_modules\lines-and-columns\build133173195709200937 1
 91C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\full\typed-array\to-reversed.js133173865913998178 0
 77C:\Users\Toan\Documents\GitHub\Forkify\node_modules\lines-and-columns\LICENSE133173195707502944 0
-66C:\Users\Toan\Documents\GitHub\Forkify\dist\index.f7626f62.css.map133173867546488070 0
+66C:\Users\Toan\Documents\GitHub\Forkify\dist\index.f7626f62.css.map133176681669289273 0
 86C:\Users\Toan\Documents\GitHub\Forkify\node_modules\lines-and-columns\build\index.d.ts133173195709240838 0
 86C:\Users\Toan\Documents\GitHub\Forkify\node_modules\@parcel\optimizer-css\package.json133173195709131121 0
 92C:\Users\Toan\Documents\GitHub\Forkify\node_modules\lightningcss-win32-x64-msvc\package.json133173195707526419 0
@@ -5311,9 +5314,9 @@
 70C:\Users\Toan\Documents\GitHub\Forkify\node_modules\function-bind\test133173195063297611 1
 80C:\Users\Toan\Documents\GitHub\Forkify\node_modules\function-bind\test\.eslintrc133173195063297611 0
 79C:\Users\Toan\Documents\GitHub\Forkify\node_modules\function-bind\test\index.js133173195063267678 0
-68C:\Users\Toan\Documents\GitHub\Forkify\node_modules\fresh\HISTORY.md133173195062888696 0
-93C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\stable\array\virtual\find-last.js133173865901623955 0
 109C:\Users\Toan\Documents\GitHub\Forkify\node_modules\dom-serializer\node_modules\entities\lib\maps\legacy.json133173195709889098 0
+93C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\stable\array\virtual\find-last.js133173865901623955 0
+68C:\Users\Toan\Documents\GitHub\Forkify\node_modules\fresh\HISTORY.md133173195062888696 0
 70C:\Users\Toan\Documents\GitHub\Forkify\node_modules\fresh\package.json133173195062167629 0
 80C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\stable\json\index.js133173865905095702 0
 85C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\internals\iterator-map.js133173865905923487 0
@@ -6094,6 +6097,7 @@
 91C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\full\string\virtual\includes.js133173865903855077 0
 85C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\actual\aggregate-error.js133173865894924998 0
 94C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\features\instance\code-point-at.js133173865896251451 0
+99C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\stable\array\virtual\find-last-index.js133173865901544168 0
 88C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\stable\array\virtual\find.js133173865901975233 0
 96C:\Users\Toan\Documents\GitHub\Forkify\node_modules\@jridgewell\gen-mapping\dist\gen-mapping.mjs133173195709739498 0
 92C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\stable\array\virtual\flat-map.js133173865902174707 0
@@ -6619,7 +6623,7 @@
 85C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\internals\array-buffer.js133173865895104517 0
 87C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\internals\array-for-each.js133173865895134438 0
 104C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\internals\array-from-constructor-and-list.js133173865895154384 0
-62C:\Users\Toan\Documents\GitHub\Forkify\dist\icons.dfd7a6db.svg133173867546644297 0
+62C:\Users\Toan\Documents\GitHub\Forkify\dist\icons.dfd7a6db.svg133176687096713832 0
 83C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\internals\array-from.js133173865895154384 0
 87C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\internals\array-includes.js133173865895184305 0
 88C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\internals\array-iteration.js133173865895204254 0
@@ -6772,7 +6776,7 @@
 84C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\internals\object-keys.js133173865908552861 0
 90C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\features\regexp\constructor.js133173865896580567 0
 102C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\internals\object-property-is-enumerable.js133173865908562832 0
-64C:\Users\Toan\Documents\GitHub\Forkify\dist\favicon.8b2f57bf.png133173867546488070 0
+64C:\Users\Toan\Documents\GitHub\Forkify\dist\favicon.8b2f57bf.png133176681669249365 0
 106C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\internals\object-prototype-accessors-forced.js133173865908562832 0
 96C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\internals\object-set-prototype-of.js133173865908582779 0
 94C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\internals\ordinary-to-primitive.js133173865909208737 0
@@ -7118,7 +7122,7 @@
 83C:\Users\Toan\Documents\GitHub\Forkify\node_modules\caniuse-lite\data\regions\GN.js133173195715852142 0
 81C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\es\string\includes.js133173865903785257 0
 78C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\es\symbol\split.js133173865912460238 0
-62C:\Users\Toan\Documents\GitHub\Forkify\dist\index.f7626f62.css133173867546488070 0
+62C:\Users\Toan\Documents\GitHub\Forkify\dist\index.f7626f62.css133176681669249365 0
 79C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\full\number\virtual133173865913888482 1
 88C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\full\number\virtual\index.js133173865904956075 0
 78C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\full\math\asinh.js133173865895323936 0
@@ -7678,8 +7682,8 @@
 93C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\features\async-iterator\reduce.js133173865910461401 0
 89C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\features\error\constructor.js133173865896570596 0
 83C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\features\error\index.js133173865904726693 0
-97C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\features\dom-exception\constructor.js133173865896570596 0
 77C:\Users\Toan\Documents\GitHub\Forkify\node_modules\@swc\helpers\src\_get.mjs133173195713259081 0
+97C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\features\dom-exception\constructor.js133173865896570596 0
 91C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\features\dom-exception\index.js133173865904726693 0
 96C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\features\dom-collections\for-each.js133173865902453953 0
 93C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\features\dom-collections\index.js133173865904726693 0
@@ -7968,8 +7972,6 @@
 85C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\es\instance\trim-right.js133173865914647015 0
 81C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\es\instance\values.js133173865915546288 0
 79C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\es\function\virtual133173865904327760 1
-84C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\actual\string\replace.js133173865910989987 0
-88C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\es\function\virtual\index.js133173865904327760 0
 88C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\es\array\virtual\flat-map.js133173865902124834 0
 77C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\es\error\index.js133173865904317786 0
 79C:\Users\Toan\Documents\GitHub\Forkify\node_modules\core-js\es\date\get-year.js133173865903136992 0
@@ -8836,6 +8838,7 @@
 107C:\Users\Toan\Documents\GitHub\Forkify\node_modules\@swc\helpers\src\_class_static_private_field_update.mjs133173195713159356 0
 105C:\Users\Toan\Documents\GitHub\Forkify\node_modules\@swc\helpers\src\_class_static_private_method_get.mjs133173195713159356 0
 86C:\Users\Toan\Documents\GitHub\Forkify\node_modules\@swc\helpers\src\_create_class.mjs133173195713179294 0
+81C:\Users\Toan\Documents\GitHub\Forkify\node_modules\@swc\helpers\src\_extends.mjs133173195713249108 0
 82C:\Users\Toan\Documents\GitHub\Forkify\node_modules\@swc\helpers\src\_inherits.mjs133173195713269059 0
 101C:\Users\Toan\Documents\GitHub\Forkify\node_modules\@swc\helpers\src\_initializer_define_property.mjs133173195713289001 0
 98C:\Users\Toan\Documents\GitHub\Forkify\node_modules\@swc\helpers\src\_interop_require_wildcard.mjs133173195713328893 0
@@ -9812,6 +9815,6 @@
 67C:\Users\Toan\Documents\GitHub\Forkify\dist\Forkify.3464ddca.js.map133173847767920577 0
 61C:\Users\Toan\Documents\GitHub\Forkify\dist\index.62406edb.js133173847767910605 0
 65C:\Users\Toan\Documents\GitHub\Forkify\dist\index.62406edb.js.map133173847767930561 0
-61C:\Users\Toan\Documents\GitHub\Forkify\dist\index.e37f48ea.js133173867546488070 0
-54C:\Users\Toan\Documents\GitHub\Forkify\dist\index.html133173867546488070 0
-61C:\Users\Toan\Documents\GitHub\Forkify\dist\logo.726d37a8.png133173867546644297 0
+61C:\Users\Toan\Documents\GitHub\Forkify\dist\index.e37f48ea.js133176687096773679 0
+54C:\Users\Toan\Documents\GitHub\Forkify\dist\index.html133176681669369043 0
+61C:\Users\Toan\Documents\GitHub\Forkify\dist\logo.726d37a8.png133176681669468775 0
