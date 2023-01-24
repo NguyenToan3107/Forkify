@@ -1,14 +1,25 @@
 import { async } from "regenerator-runtime"
+import { API_URL, RES_PER_PAGE } from "./config.js"
+import { getJSON } from './helpers.js'
 
 export const state = {
     recipe: {},
+    search: {
+        query: '',
+        results: [],
+        resultsPerPage: RES_PER_PAGE,
+        page: 1,
+    },
+    bookMarks: []
 }
 
 export const loadRecipe = async function (id) {
     try {
-        const res = await fetch(`https://forkify-api.herokuapp.com/api/v2/recipes/${id}`)
-        const data = await res.json()
-        if (!res.ok) throw new Error(`${data.message} (${res.status})`)
+        // const res = await fetch(`${API_URL}/${id}`)
+        // const data = await res.json()
+        // if (!res.ok) throw new Error(`${data.message} (${res.status})`)
+        const data = await getJSON(`${API_URL}/${id}`)
+        console.log(data)
         const { recipe } = data.data
         state.recipe = {
             id: recipe.id,
@@ -20,9 +31,89 @@ export const loadRecipe = async function (id) {
             cookingTime: recipe.cooking_time,
             ingredients: recipe.ingredients,
         }
-        console.log(state.recipe)
+
+        if (state.bookMarks.some(bookMarks => bookMarks.id === id))
+            state.recipe.bookMarks = true
+        else state.recipe.bookMarks = false
     } catch (err) {
         // alert(err.message)
-        console.log(err.message)
+        console.error(`${err} !!!`)
+        throw err
     }
 }
+
+export const loadSearchResults = async function (query) {
+    try {
+        state.search.query = query
+        if (!query) return
+
+        const data = await getJSON(`${API_URL}/?search=${query}`)
+        console.log(data)
+        state.search.results = data.data.recipes.map(rec => {
+            return {
+                id: rec.id,
+                title: rec.title,
+                publisher: rec.publisher,
+                image: rec.image_url,
+            }
+        })
+        state.search.page = 1
+    } catch (err) {
+        console.error(`${err} !!!`)
+        throw err
+    }
+}
+
+
+export const getSearchResultsPage = function (page = state.search.page) {
+    state.search.page = page
+
+    const start = (page - 1) * state.search.resultsPerPage
+    const end = page * state.search.resultsPerPage
+
+
+    return state.search.results.slice(start, end)
+}
+
+export const updateServings = function (newServings) {
+    state.recipe.ingredients.forEach(ing => {
+        ing.quantity = ing.quantity * (newServings / state.recipe.servings)
+    });
+    state.recipe.servings = newServings
+}
+
+export const addBookmark = function (recipe) {
+    // 1. add bookmark
+    state.bookMarks.push(recipe)
+
+    // Mark current recipe as bookmark
+    if (recipe.id === state.recipe.id) state.recipe.bookMarks = true
+
+    setLocation()
+}
+
+export const deleteBookmark = function (id) {
+    // delete bookmark
+    const index = state.bookMarks.findIndex(el => el.id === id)
+    state.bookMarks.splice(index, 1)
+
+    // Mark current recipe as NOT bookmarked
+    if (id === state.recipe.id) state.recipe.bookMarks = false
+
+    setLocation()
+}
+
+const setLocation = function () {
+    localStorage.setItem('bookmark', JSON.stringify(state.bookMarks))
+}
+
+const init = function () {
+    const storage = localStorage.getItem('bookmark')
+    if (storage) state.bookMarks = JSON.parse(storage)
+}
+
+init()
+
+const clearBookmark = function () {
+    localStorage.clear('bookmark')
+} 
